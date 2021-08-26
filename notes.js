@@ -1,5 +1,5 @@
-const getNotes = () => {
+export const getNotes = () => {
     return 'My notes are...'
 }
 
-module.exports = getNotes
+// module.exports = getNotes
