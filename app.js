@@ -5,9 +5,4 @@ const msg = getNotes()
 
 console.log(msg)
 
-console.log(chalk.bold.bgGreen.white('success'))
-
-
-// const add = require('./utils')
-// const sum = add(4, -2)
-// console.log(sum)
+console.log(chalk.bold.bgRed.white('ERROR!!!'))
